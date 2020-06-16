@@ -2,3 +2,8 @@
         call jetts.
 2. Decide which type of pizza to order.
     cheese pep peppers
+3. Wait for delivery.
+        the longest time
+
+4. grub down.
+        the best part!
