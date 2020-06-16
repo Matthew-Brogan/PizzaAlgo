@@ -1,0 +1,4 @@
+1. Decide which business to order from.
+        call jetts.
+2. Decide which type of pizza to order.
+    cheese pep peppers
