@@ -24,8 +24,15 @@
 
         <!--PLACEHOLDER CONTENT-->
         <body>
+        <header>
         <h1>Algos</h1>
         <p>the best pizza made with algo</p>
+        <nav>
+         <a href='#' alt='pizza'></a>
+         <a href='a' alt='more pizza'></a>
+         </nav>
+         </header>
+        
         </body>
 
         </html>
