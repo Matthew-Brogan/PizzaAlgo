@@ -25,6 +25,7 @@
         <!--PLACEHOLDER CONTENT-->
         <body>
         <h1>Algos</h1>
+        <p>the best pizza made with algo</p>
         </body>
 
         </html>
