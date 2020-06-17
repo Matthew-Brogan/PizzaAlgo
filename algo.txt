@@ -32,7 +32,10 @@
          <a href='a' alt='more pizza'></a>
          </nav>
          </header>
-        
+
+         <article>
+         <p> all our pizzas have the best toppings</p>
+        </article>
         </body>
 
         </html>
