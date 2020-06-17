@@ -36,6 +36,10 @@
          <article>
          <p> all our pizzas have the best toppings</p>
         </article>
+
+        <footer>
+        <p>copywrite Matthew Brogan</p>
+        </footer>
         </body>
 
         </html>
